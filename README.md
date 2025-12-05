@@ -1,4 +1,4 @@
-Student Information Processing System
+Simple Console Based Student Information Processing System
 
 A Python-based console application designed to demonstrate Object-Oriented Programming (OOP) and Regular Expressions (Regex). The system processes raw student data strings, validates input, and stores records using encapsulation and inheritance.
 
